@@ -4,18 +4,12 @@ import './App.css';
 
 function App() {
   return (
-      <div>
-
-      <img src={fondo} className="App-logo" alt="logo" />
-      </div>
-
-
-
+      
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hola my friends 
         </p>
         <a
           className="App-link"
